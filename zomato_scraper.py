@@ -238,4 +238,8 @@ def extractDataFromHotelLinks():
         print(recordCnt)
         recordCnt += 1
 
+# # Call this function first to extract hotelLinks
+# extractHotelLinks()
+
+# Call this function if hotelLinks are available in hotelLinks.txt file
 extractDataFromHotelLinks()
