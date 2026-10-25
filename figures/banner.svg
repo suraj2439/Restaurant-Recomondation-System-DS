@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Restaurant Insights banner">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B3C49"/><stop offset="1" stop-color="#0F8B8D"/></linearGradient></defs>
+<rect width="1200" height="300" rx="22" fill="url(#g)"/>
+<g opacity="0.10" fill="none" stroke="#fff" stroke-width="3"><circle cx="1010" cy="150" r="140"/><circle cx="1010" cy="150" r="100"/><circle cx="1010" cy="150" r="60"/></g>
+<g transform="translate(960 95)" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="52" cy="55" r="44" stroke="#F6EFE6"/><circle cx="52" cy="55" r="28" stroke="#F6EFE6" opacity=".6"/>
+<path d="M-18 8 V40 M-8 8 V40 M2 8 V40 M-18 40 Q-8 52 2 40 M-8 40 V108" stroke="#fff"/>
+<path d="M122 8 Q142 30 122 60 V108 M122 8 V60" stroke="#fff"/></g>
+<text x="64" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" fill="#fff">Restaurant Insights</text>
+<text x="66" y="176" font-family="Helvetica, Arial, sans-serif" font-size="25" fill="#F6EFE6">NLP and semantic search on Zomato Pune data</text>
+<g font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="600">
+<rect x="66" y="208" width="200" height="38" rx="19" fill="#fff" opacity=".16"/><text x="166" y="233" text-anchor="middle" fill="#fff">Aspect classification</text>
+<rect x="280" y="208" width="190" height="38" rx="19" fill="#fff" opacity=".16"/><text x="375" y="233" text-anchor="middle" fill="#fff">Semantic search</text>
+<rect x="484" y="208" width="190" height="38" rx="19" fill="#fff" opacity=".16"/><text x="579" y="233" text-anchor="middle" fill="#fff">Measured results</text></g>
+</svg>

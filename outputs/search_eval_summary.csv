@@ -1,0 +1,7 @@
+system,P@10,NDCG@10
+tfidf,0.16,0.197
+embedding,0.065,0.07
+tfidf+filters,0.495,0.531
+embedding+filters,0.62,0.675
+embedding+filters+prior,0.62,0.684
+embedding+filters+prior+aspect,0.735,0.813

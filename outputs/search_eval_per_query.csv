@@ -1,0 +1,121 @@
+query,system,n_relevant,p_at_k,ndcg_at_k,kind
+inexpensive north indian food in wakad,tfidf,17,0.2,0.35895421017163476,structured
+inexpensive north indian food in wakad,embedding,17,0.0,0.0,structured
+inexpensive north indian food in wakad,tfidf+filters,17,1.0,1.0,structured
+inexpensive north indian food in wakad,embedding+filters,17,1.0,1.0,structured
+inexpensive north indian food in wakad,embedding+filters+prior,17,1.0,1.0,structured
+inexpensive north indian food in wakad,embedding+filters+prior+aspect,17,1.0,1.0,structured
+pocket friendly chinese in kharadi,tfidf,14,0.1,0.2200917662980802,structured
+pocket friendly chinese in kharadi,embedding,14,0.0,0.0,structured
+pocket friendly chinese in kharadi,tfidf+filters,14,1.0,1.0,structured
+pocket friendly chinese in kharadi,embedding+filters,14,1.0,1.0,structured
+pocket friendly chinese in kharadi,embedding+filters+prior,14,1.0,1.0,structured
+pocket friendly chinese in kharadi,embedding+filters+prior+aspect,14,1.0,1.0,structured
+cheap desserts in viman nagar,tfidf,11,0.2,0.29849003527675555,structured
+cheap desserts in viman nagar,embedding,11,0.1,0.13886244387355456,structured
+cheap desserts in viman nagar,tfidf+filters,11,1.0,1.0,structured
+cheap desserts in viman nagar,embedding+filters,11,1.0,1.0,structured
+cheap desserts in viman nagar,embedding+filters+prior,11,1.0,1.0,structured
+cheap desserts in viman nagar,embedding+filters+prior+aspect,11,1.0,1.0,structured
+inexpensive fast food in hinjawadi,tfidf,10,0.3,0.38431135260440824,structured
+inexpensive fast food in hinjawadi,embedding,10,0.0,0.0,structured
+inexpensive fast food in hinjawadi,tfidf+filters,10,1.0,1.0,structured
+inexpensive fast food in hinjawadi,embedding+filters,10,1.0,1.0,structured
+inexpensive fast food in hinjawadi,embedding+filters+prior,10,1.0,1.0,structured
+inexpensive fast food in hinjawadi,embedding+filters+prior+aspect,10,1.0,1.0,structured
+cozy place with a nice vibe in baner,tfidf,25,0.2,0.17366667134799182,aspect
+cozy place with a nice vibe in baner,embedding,25,0.2,0.20483424751859092,aspect
+cozy place with a nice vibe in baner,tfidf+filters,25,0.6,0.6618313225363276,aspect
+cozy place with a nice vibe in baner,embedding+filters,25,0.9,0.9305687780632229,aspect
+cozy place with a nice vibe in baner,embedding+filters+prior,25,0.9,0.9052116356304495,aspect
+cozy place with a nice vibe in baner,embedding+filters+prior+aspect,25,1.0,1.0,aspect
+relaxed atmosphere and good music in kharadi,tfidf,14,0.2,0.24890832702259466,aspect
+relaxed atmosphere and good music in kharadi,embedding,14,0.1,0.1100458831490401,aspect
+relaxed atmosphere and good music in kharadi,tfidf+filters,14,0.4,0.5224955967919311,aspect
+relaxed atmosphere and good music in kharadi,embedding+filters,14,0.3,0.4373524791503101,aspect
+relaxed atmosphere and good music in kharadi,embedding+filters+prior,14,0.3,0.44409732781325584,aspect
+relaxed atmosphere and good music in kharadi,embedding+filters+prior+aspect,14,0.8,0.826813366651774,aspect
+lovely decor and comfortable seating in viman nagar,tfidf,22,0.4,0.45699707501773656,aspect
+lovely decor and comfortable seating in viman nagar,embedding,22,0.0,0.0,aspect
+lovely decor and comfortable seating in viman nagar,tfidf+filters,22,0.5,0.633219679627003,aspect
+lovely decor and comfortable seating in viman nagar,embedding+filters,22,0.8,0.7877736340270853,aspect
+lovely decor and comfortable seating in viman nagar,embedding+filters+prior,22,0.8,0.841492960259019,aspect
+lovely decor and comfortable seating in viman nagar,embedding+filters+prior+aspect,22,1.0,1.0,aspect
+great hangout spot with a young crowd in kalyani nagar,tfidf,6,0.0,0.0,aspect
+great hangout spot with a young crowd in kalyani nagar,embedding,6,0.0,0.0,aspect
+great hangout spot with a young crowd in kalyani nagar,tfidf+filters,6,0.1,0.09546043308946733,aspect
+great hangout spot with a young crowd in kalyani nagar,embedding+filters,6,0.4,0.48977996902119897,aspect
+great hangout spot with a young crowd in kalyani nagar,embedding+filters+prior,6,0.4,0.5600175529401202,aspect
+great hangout spot with a young crowd in kalyani nagar,embedding+filters+prior+aspect,6,0.4,0.7409096387260823,aspect
+friendly staff and quick service in wakad,tfidf,9,0.1,0.09092803061897885,aspect
+friendly staff and quick service in wakad,embedding,9,0.0,0.0,aspect
+friendly staff and quick service in wakad,tfidf+filters,9,0.4,0.5104418534059961,aspect
+friendly staff and quick service in wakad,embedding+filters,9,0.5,0.3917006227290388,aspect
+friendly staff and quick service in wakad,embedding+filters+prior,9,0.5,0.43708009533157016,aspect
+friendly staff and quick service in wakad,embedding+filters+prior+aspect,9,0.7,0.8379265695293115,aspect
+"polite staff, prompt service in baner",tfidf,9,0.2,0.14629191738978586,aspect
+"polite staff, prompt service in baner",embedding,9,0.1,0.1175227747072427,aspect
+"polite staff, prompt service in baner",tfidf+filters,9,0.5,0.5724962033825488,aspect
+"polite staff, prompt service in baner",embedding+filters,9,0.5,0.565416101046174,aspect
+"polite staff, prompt service in baner",embedding+filters+prior,9,0.3,0.45749139526970906,aspect
+"polite staff, prompt service in baner",embedding+filters+prior+aspect,9,0.6,0.7308823860808566,aspect
+courteous waiters in koregaon park,tfidf,5,0.2,0.2001366809542687,aspect
+courteous waiters in koregaon park,embedding,5,0.0,0.0,aspect
+courteous waiters in koregaon park,tfidf+filters,5,0.2,0.2001366809542687,aspect
+courteous waiters in koregaon park,embedding+filters,5,0.4,0.5346498846065161,aspect
+courteous waiters in koregaon park,embedding+filters+prior,5,0.4,0.4671671770926196,aspect
+courteous waiters in koregaon park,embedding+filters+prior+aspect,5,0.5,0.6657041185227075,aspect
+great value for money in kharadi,tfidf,7,0.0,0.0,aspect
+great value for money in kharadi,embedding,7,0.0,0.0,aspect
+great value for money in kharadi,tfidf+filters,7,0.1,0.11838279295536291,aspect
+great value for money in kharadi,embedding+filters,7,0.0,0.0,aspect
+great value for money in kharadi,embedding+filters+prior,7,0.0,0.0,aspect
+great value for money in kharadi,embedding+filters+prior+aspect,7,0.1,0.09162544430476362,aspect
+pocket friendly with big portions in wakad,tfidf,15,0.0,0.0,aspect
+pocket friendly with big portions in wakad,embedding,15,0.0,0.0,aspect
+pocket friendly with big portions in wakad,tfidf+filters,15,0.0,0.0,aspect
+pocket friendly with big portions in wakad,embedding+filters,15,0.2,0.2172607128522299,aspect
+pocket friendly with big portions in wakad,embedding+filters+prior,15,0.2,0.2122263659729146,aspect
+pocket friendly with big portions in wakad,embedding+filters+prior+aspect,15,0.4,0.4074153667635757,aspect
+worth the price in viman nagar,tfidf,6,0.0,0.0,aspect
+worth the price in viman nagar,embedding,6,0.2,0.21252302622743086,aspect
+worth the price in viman nagar,tfidf+filters,6,0.0,0.0,aspect
+worth the price in viman nagar,embedding+filters,6,0.3,0.644824486427155,aspect
+worth the price in viman nagar,embedding+filters+prior,6,0.4,0.7247145167543899,aspect
+worth the price in viman nagar,embedding+filters+prior+aspect,6,0.4,0.7114533439819828,aspect
+fast delivery with good packaging in hadapsar,tfidf,14,0.3,0.27426546945536817,aspect
+fast delivery with good packaging in hadapsar,embedding,14,0.1,0.06362078819895173,aspect
+fast delivery with good packaging in hadapsar,tfidf+filters,14,0.7,0.5774250016294137,aspect
+fast delivery with good packaging in hadapsar,embedding+filters,14,0.4,0.4073174795910972,aspect
+fast delivery with good packaging in hadapsar,embedding+filters+prior,14,0.5,0.552265477387053,aspect
+fast delivery with good packaging in hadapsar,embedding+filters+prior+aspect,14,0.7,0.793584067764911,aspect
+safe contactless delivery in kothrud,tfidf,9,0.4,0.510927102244958,aspect
+safe contactless delivery in kothrud,embedding,9,0.0,0.0,aspect
+safe contactless delivery in kothrud,tfidf+filters,9,0.6,0.7713707099946514,aspect
+safe contactless delivery in kothrud,embedding+filters,9,0.5,0.6728499236252581,aspect
+safe contactless delivery in kothrud,embedding+filters+prior,9,0.6,0.7308823860808566,aspect
+safe contactless delivery in kothrud,embedding+filters+prior+aspect,9,0.7,0.8475028682434304,aspect
+quick delivery and proper packing in baner,tfidf,12,0.1,0.2200917662980802,aspect
+quick delivery and proper packing in baner,embedding,12,0.3,0.4225749983705865,aspect
+quick delivery and proper packing in baner,tfidf+filters,12,0.6,0.5711601909662337,aspect
+quick delivery and proper packing in baner,embedding+filters,12,0.7,0.7721596254947204,aspect
+quick delivery and proper packing in baner,embedding+filters+prior,12,0.6,0.715550648768261,aspect
+quick delivery and proper packing in baner,embedding+filters+prior+aspect,12,0.7,0.8006937664098821,aspect
+tasty food large portions in viman nagar,tfidf,45,0.1,0.07839826897867534,aspect
+tasty food large portions in viman nagar,embedding,45,0.2,0.1356854453911663,aspect
+tasty food large portions in viman nagar,tfidf+filters,45,0.3,0.22082856303278733,aspect
+tasty food large portions in viman nagar,embedding+filters,45,1.0,1.0,aspect
+tasty food large portions in viman nagar,embedding+filters+prior,45,1.0,1.0,aspect
+tasty food large portions in viman nagar,embedding+filters+prior+aspect,45,1.0,1.0,aspect
+amazing taste and extensive menu in kharadi,tfidf,32,0.0,0.0,aspect
+amazing taste and extensive menu in kharadi,embedding,32,0.0,0.0,aspect
+amazing taste and extensive menu in kharadi,tfidf+filters,32,0.7,0.7967610662472993,aspect
+amazing taste and extensive menu in kharadi,embedding+filters,32,0.9,0.9337457765456111,aspect
+amazing taste and extensive menu in kharadi,embedding+filters+prior,32,0.9,0.9305687780632229,aspect
+amazing taste and extensive menu in kharadi,embedding+filters+prior+aspect,32,1.0,1.0,aspect
+yummy desserts fresh and tasty in baner,tfidf,10,0.2,0.2863459897524693,mixed
+yummy desserts fresh and tasty in baner,embedding,10,0.0,0.0,mixed
+yummy desserts fresh and tasty in baner,tfidf+filters,10,0.2,0.35895421017163476,mixed
+yummy desserts fresh and tasty in baner,embedding+filters,10,0.6,0.7151857987862358,mixed
+yummy desserts fresh and tasty in baner,embedding+filters+prior,10,0.6,0.7058075148678529,mixed
+yummy desserts fresh and tasty in baner,embedding+filters+prior+aspect,10,0.7,0.8006937664098821,mixed

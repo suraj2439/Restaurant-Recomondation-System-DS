@@ -1,0 +1,4 @@
+method,CV micro-F1,CV macro-F1,freq-split micro-F1,freq-split macro-F1
+Keyword rules (main.ipynb),0.631,0.67,0.627,0.662
+Zero-shot embeddings,0.755,0.653,0.73,0.629
+Supervised (char TF-IDF + embedding),0.905,0.854,0.876,0.786
